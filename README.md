@@ -1,5 +1,5 @@
 # a-simple-ocr-program-for-reading-pdf-files
-An optical character recognition tool to read PDF files.
+An optical character recognition tool with Tkinter GUI to read PDF files.
 
 ## Usage
 - Install Tesseract OCR  
