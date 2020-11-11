@@ -12,6 +12,6 @@ Note: You can also import and use the PDF2Text class from ocr.py
 
 ## Dependencies
 Tesseract OCR: https://github.com/tesseract-ocr/tesseract
-Pytesseract  
+Pytesseract: https://pypi.org/project/pytesseract/
 Pillow  
 pdf2image  
